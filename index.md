@@ -1,4 +1,4 @@
-## Welcome to GHLaboratory GitHub
+## Welcome to My GitHub item.
 
 You can use the [editor on GitHub](https://github.com/GHLaboratory/GitHub.Pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
